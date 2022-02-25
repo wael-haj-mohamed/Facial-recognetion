@@ -1,6 +1,6 @@
 import cv2
 
-name = '****' #tapez le nom que vous voulez enregistre et ecrire leur dossier avec son nom
+name = '####' #tapez le nom que vous voulez enregistre et ecrire leur dossier avec son nom
 
 cam = cv2.VideoCapture(0)
 
